@@ -18,3 +18,5 @@
 /api/obj/Release/net9.0/api.assets.cache
 /api/obj/Release/net9.0/api.GeneratedMSBuildEditorConfig.editorconfig
 /api/obj/Release/net9.0/api.GlobalUsings.g.cs
+/.vs/FinancialApp/FileContentIndex/66b32d64-1a02-48cd-b725-b03dfb5eb4c1.vsidx
+*.vsidx
